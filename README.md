@@ -84,8 +84,8 @@ Here are some projects that showcase my skills:
 
 ### 📫 Get in Touch
 - 🌐 Portfolio: [sai-gudipati.netlify.app](https://sai-gudipati.netlify.app)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- 📧 Email: [saikumars@example.com](mailto:saikumars@example.com)
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/sai-kumar-gsk/)
+- 📧 Email: [saikumars@example.com](mailto:saigudipati9000@gmail.com)
 - 🐦 X: [@SAIKUMARSAIG](https://x.com/SAIKUMARSAIG)
 
 ---
