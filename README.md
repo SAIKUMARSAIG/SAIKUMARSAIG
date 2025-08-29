@@ -26,12 +26,6 @@
 
 I'm a passionate **Full Stack Developer** with expertise in building responsive, scalable web applications. I enjoy solving complex problems with clean, efficient code and creating seamless user experiences. Currently expanding my skills in cloud technologies and system design.
 
-- 🌱 **Currently learning**: Advanced Java, Spring Boot microservices, and container orchestration with Docker/Kubernetes
-- 💡 **Interested in**: System design, cloud architecture, and performance optimization
-- 💬 **Ask me about**: Backend development, React patterns, REST APIs, or database design
-- 💞️ **Looking to collaborate on**: Open-source projects, full-stack applications, or backend systems
-- ⚡ **Fun fact**: I enjoy solving algorithmic puzzles and participating in coding challenges
-
 ---
 
 ## 🛠️ Tech Stack
